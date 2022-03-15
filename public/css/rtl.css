@@ -1,0 +1,1414 @@
+.top-bar-information {
+  padding-right: 0;
+}
+
+.top-bar-information li {
+  margin-left: 15px;
+  margin-right: 0;
+  padding-right: 20px;
+  padding-left: 0;
+}
+
+.top-bar-information li:last-child {
+  margin-left: 0;
+}
+
+.top-bar-information li i {
+  right: 0;
+  left: auto;
+}
+
+.top-bar-optional {
+  padding-right: 0;
+  text-align: left;
+}
+
+.top-bar-optional li {
+  margin-left: 10px;
+  margin-right: 0;
+}
+
+.top-bar-optional li:last-child {
+  margin-left: 0;
+}
+
+.top-bar-optional li .languages-list .nice-select .list .option {
+  margin-left: 0;
+  text-align: right;
+}
+
+.navbar-brand {
+  margin-right: 0;
+}
+
+.main-navbar .navbar ul {
+  padding-right: 0;
+}
+
+.main-navbar .navbar .navbar-nav .nav-item:first-child {
+  margin-right: 0;
+  margin-left: 15px;
+}
+
+.main-navbar .navbar .navbar-nav .nav-item:last-child {
+  margin-left: 0;
+  margin-right: 15px;
+}
+
+.main-navbar .navbar .navbar-nav .nav-item a::before {
+  left: 0;
+  right: auto;
+}
+
+.main-navbar .navbar .navbar-nav .nav-item a:hover::before, .main-navbar .navbar .navbar-nav .nav-item a:focus::before, .main-navbar .navbar .navbar-nav .nav-item a.active::before {
+  width: 100%;
+  left: auto;
+  right: 0;
+}
+
+.main-navbar .navbar .navbar-nav .nav-item .dropdown-menu {
+  right: 0;
+  left: auto;
+  text-align: right;
+}
+
+.main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li a i {
+  left: 15px;
+  right: auto;
+}
+
+.main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu {
+  left: -235px;
+  right: auto;
+}
+
+.main-navbar .navbar .others-options .cart-wrapper-btn {
+  margin-right: 20px;
+  margin-left: 0;
+}
+
+.main-navbar .navbar .others-options .cart-wrapper-btn span {
+  left: -10px;
+  right: auto;
+}
+
+.main-navbar .navbar .others-options .search-box {
+  margin-right: 25px;
+  margin-left: 0;
+}
+
+.main-banner-search-form form .form-group label {
+  right: 15px;
+  left: auto;
+}
+
+.main-banner-search-form form .form-group .form-control {
+  padding: 10px 45px 10px 10px;
+}
+
+.main-banner-search-form form button {
+  left: 0;
+  right: auto;
+}
+
+.section-title .bar {
+  direction: ltr;
+}
+
+.about-content .bar {
+  margin: 25px 0 20px auto;
+  direction: ltr;
+}
+
+.about-content .about-list {
+  padding-right: 0;
+}
+
+.about-content .about-list li {
+  padding-right: 38px;
+  padding-left: 0;
+}
+
+.about-content .about-list li i {
+  right: 0;
+  left: auto;
+}
+
+.about-image {
+  text-align: left;
+  padding-left: 30px;
+  padding-right: 0;
+}
+
+.about-image img:nth-child(2) {
+  right: 0;
+  left: auto;
+}
+
+.about-shape .shape-1 {
+  right: 0;
+  left: auto;
+}
+
+.about-shape .shape-2 {
+  left: 30px;
+  right: auto;
+}
+
+.doctor-area .section-title {
+  text-align: right;
+}
+
+.doctor-area .section-title p {
+  margin: 0 0 0 auto;
+}
+
+.doctor-area .section-title .bar {
+  margin: 20px 0 20px auto;
+  direction: ltr;
+}
+
+.doctor-area .specialist-btn {
+  text-align: left;
+}
+
+.single-doctor .doctor-image a i {
+  left: 5px;
+  right: auto;
+}
+
+.single-doctor .doctor-content .department-btn {
+  left: 0;
+  right: auto;
+}
+
+.single-doctor .doctor-content .rating {
+  padding-right: 0;
+}
+
+.single-doctor .doctor-content .information-list {
+  padding-right: 0;
+}
+
+.single-doctor .doctor-content .information-list li {
+  padding-right: 22px;
+  padding-left: 0;
+}
+
+.single-doctor .doctor-content .information-list li i {
+  right: 0;
+  left: auto;
+}
+
+.single-doctor .doctor-content .doctor-btn .default-btn {
+  margin-left: 10px;
+  margin-right: 0;
+}
+
+.queries-form form .form-group label {
+  right: 15px;
+  left: auto;
+}
+
+.queries-form form .form-group .form-control {
+  padding: 10px 45px 10px 10px;
+}
+
+.queries-form form .form-group textarea.form-control {
+  padding: 15px 15px 0 15px;
+}
+
+.queries-form form .nice-select {
+  text-align: right !important;
+}
+
+.queries-form form .nice-select::after {
+  left: 15px;
+  right: auto;
+}
+
+.queries-form form .nice-select .list .option {
+  text-align: right;
+}
+
+.form-check {
+  padding-right: 1.25rem;
+  padding-left: 0;
+}
+
+.form-check-input {
+  margin-right: -1.25rem;
+  margin-left: 0;
+}
+
+.overview-content .bar {
+  margin: 20px 0 20px auto;
+  direction: ltr;
+}
+
+.single-blog .blog-image span {
+  right: 20px;
+  left: auto;
+}
+
+.newsletter-form button {
+  left: 4px;
+  right: auto;
+}
+
+.single-footer-widget .footer-social {
+  padding-right: 0;
+}
+
+.single-footer-widget .footer-social li {
+  margin-left: 10px;
+  margin-right: 0;
+}
+
+.single-footer-widget .footer-social li:last-child {
+  margin-left: 0;
+}
+
+.single-footer-widget .quick-links {
+  padding-right: 0;
+}
+
+.single-footer-widget .quick-links a::before {
+  right: 0;
+  left: auto;
+}
+
+.single-footer-widget.pl-5, .single-footer-widget .px-5 {
+  padding-right: 3rem !important;
+  padding-left: 0 !important;
+}
+
+.single-footer-widget .opening-hours {
+  padding-right: 0;
+}
+
+.single-footer-widget .opening-hours li span {
+  float: left;
+}
+
+.single-footer-widget .footer-contact-info {
+  padding-right: 0;
+}
+
+.single-footer-widget .footer-contact-info li {
+  padding-right: 35px;
+  padding-left: 0;
+}
+
+.single-footer-widget .footer-contact-info li i {
+  right: 0;
+  left: auto;
+}
+
+.go-top {
+  left: 20px;
+  right: auto;
+}
+
+.main-banner-item.item-two .main-banner-content {
+  text-align: right;
+}
+
+.main-banner-item.item-two .main-banner-inner {
+  margin-right: auto;
+  margin-left: 0;
+}
+
+.main-banner-shape .shape-1 {
+  right: -45px;
+  left: auto;
+}
+
+.main-banner-shape .shape-1 img {
+  -webkit-transform: rotate(-65deg);
+          transform: rotate(-65deg);
+}
+
+.main-banner-shape .shape-2 {
+  right: -45px;
+  left: auto;
+}
+
+.healthcare-shape .shape-1 {
+  right: -10px;
+  left: auto;
+}
+
+.healthcare-shape .shape-2 {
+  left: -50px;
+  right: auto;
+}
+
+.healthcare-content .healthcare-list {
+  padding-right: 0;
+}
+
+.healthcare-content .healthcare-list li {
+  padding-right: 38px;
+  padding-left: 0;
+}
+
+.healthcare-content .healthcare-list li i {
+  right: 0;
+  left: auto;
+  margin-left: 5px;
+  margin-right: 0;
+}
+
+.healthcare-image::before {
+  left: -20px;
+  right: auto;
+  border-radius: 0px 0 100px 0;
+}
+
+.healthcare-image img {
+  border-radius: 0px 0 100px 0;
+}
+
+.healthcare-image .image-shape-1 {
+  right: -60px;
+  left: auto;
+}
+
+.specialist-inner {
+  padding: 100px 0 100px 25px;
+}
+
+.specialist-inner .specialist-content {
+  margin-right: auto;
+  margin-left: 0;
+}
+
+.specialist-inner .specialist-content .specialist-info {
+  padding-right: 0;
+}
+
+.specialist-inner .specialist-content .specialist-info li span {
+  margin-left: 5px;
+  margin-right: 0;
+}
+
+.specialist-inner .specialist-content .specialist-info li a {
+  margin-left: 10px;
+  margin-right: 0;
+}
+
+.specialist-inner .specialist-content .specialist-info li a:last-child {
+  margin-left: 0;
+}
+
+.specialist-inner .specialist-shape {
+  right: -50%;
+  left: auto;
+}
+
+.doctor-slider {
+  right: calc((100% - 1280px) / 2);
+  left: auto;
+}
+
+.top-bar-area.bg-black .top-bar-information li::before {
+  left: -10px;
+  right: auto;
+}
+
+.search-overlay .search-overlay-form form .input-search {
+  padding-right: 20px;
+  padding-left: 0;
+}
+
+.search-overlay .search-overlay-form form button {
+  left: 5px;
+  right: auto;
+}
+
+.search-overlay .search-overlay-close {
+  left: 40px;
+  right: auto;
+}
+
+.main-banner-item.item-three .main-banner-content {
+  text-align: right;
+}
+
+.single-process .process-list {
+  padding-right: 0;
+}
+
+.single-process .process-list li::before {
+  right: 0;
+  left: auto;
+}
+
+.single-process .process-list li i {
+  margin-left: 5px;
+  margin-right: 0;
+  float: right;
+}
+
+.single-process .process-form form .nice-select {
+  text-align: right !important;
+}
+
+.single-process .process-form form .nice-select::after {
+  left: 15px;
+  right: auto;
+}
+
+.single-process .process-form form .nice-select .list .option {
+  text-align: right;
+}
+
+.consult-content .consult-inner-content {
+  padding-right: 85px;
+  padding-left: 0;
+}
+
+.consult-content .consult-inner-content .icon {
+  right: 0;
+  left: auto;
+}
+
+.consult-shape {
+  right: -110px;
+  left: auto;
+}
+
+.live-inner-box {
+  padding-right: 20px;
+  padding-left: 0;
+}
+
+.live-shape {
+  left: 0;
+  right: auto;
+}
+
+.testimonial-shape {
+  left: 0;
+  right: auto;
+}
+
+.ml-auto, .mx-auto {
+  margin-right: auto !important;
+  margin-left: 0 !important;
+}
+
+.main-banner-item.item-four .main-banner-content {
+  text-align: right;
+}
+
+.banner-form form .nice-select {
+  text-align: right !important;
+}
+
+.banner-form form .nice-select::after {
+  left: 15px;
+  right: auto;
+}
+
+.banner-form form .nice-select .list .option {
+  text-align: right;
+}
+
+.pricing-list-tab .tabs {
+  padding-right: 0;
+}
+
+.pricing-list-tab .tabs li:nth-child(1) a {
+  border-radius: 0 30px 30px 0;
+}
+
+.pricing-list-tab .tabs li:nth-child(2) a {
+  border-radius: 30px 0 0 30px;
+}
+
+.single-pricing-table .pricing-features {
+  padding-right: 0;
+}
+
+.page-banner-content ul {
+  padding-right: 0;
+}
+
+.page-banner-content ul li {
+  margin-right: 15px;
+  padding-left: 0;
+}
+
+.page-banner-content ul li:first-child {
+  margin-right: 0;
+}
+
+.page-banner-content ul li::before {
+  right: -10px;
+  left: auto;
+}
+
+.top-bar-area.bg-000000 .top-bar-information li::before {
+  left: -10px;
+  right: auto;
+}
+
+.register-form h2::before {
+  right: 0;
+  left: auto;
+}
+
+.register-form form .form-group .form-control {
+  padding: 0 15px 0 15px;
+}
+
+.login-form h2::before {
+  right: 0;
+  left: auto;
+}
+
+.login-form form .form-group .form-control {
+  padding: 0 15px 0 15px;
+}
+
+.login-form form .lost-your-password {
+  text-align: left;
+}
+
+.mediva-grid-sorting .ordering {
+  text-align: left;
+}
+
+.mediva-grid-sorting .ordering label {
+  margin-left: 5px;
+  margin-right: 0;
+}
+
+.single-products-box .products-content .star-rating {
+  left: 0;
+  right: auto;
+}
+
+.single-products-box .products-content .add-to-cart {
+  right: 0;
+  left: auto;
+}
+
+.cart-table table tbody tr td.product-subtotal .remove {
+  float: left;
+}
+
+.text-right {
+  text-align: left !important;
+}
+
+.cart-buttons .shopping-coupon-code .form-control {
+  padding: 1px 15px 0 15px;
+}
+
+.cart-buttons .shopping-coupon-code button {
+  left: 0;
+  right: auto;
+}
+
+.cart-totals ul {
+  padding-right: 0;
+}
+
+.cart-totals ul li span {
+  float: left;
+}
+
+.billing-details .title::before {
+  right: 0;
+  left: auto;
+}
+
+.billing-details .form-group .nice-select {
+  text-align: right !important;
+  padding-right: 18px;
+  padding-left: 30px;
+}
+
+.billing-details .form-group .nice-select:after {
+  left: 20px;
+  right: auto;
+}
+
+.billing-details .form-group .nice-select .list .option {
+  text-align: right;
+}
+
+.order-details .title::before {
+  right: 0;
+  left: auto;
+}
+
+.order-details .payment-box .payment-method p [type="radio"]:checked + label, .order-details .payment-box .payment-method p [type="radio"]:not(:checked) + label {
+  padding-right: 27px;
+  padding-left: 0;
+}
+
+.order-details .payment-box .payment-method p [type="radio"]:checked + label::before, .order-details .payment-box .payment-method p [type="radio"]:not(:checked) + label::before {
+  right: 0;
+  left: auto;
+}
+
+.order-details .payment-box .payment-method p [type="radio"]:checked + label::after, .order-details .payment-box .payment-method p [type="radio"]:not(:checked) + label::after {
+  right: 3px;
+  left: auto;
+}
+
+.widget-area .widget .widget-title::before {
+  right: 0;
+  left: auto;
+}
+
+.widget-area .widget_search form button {
+  left: 5px;
+  right: auto;
+}
+
+.widget-area .widget_popular_products .item .thumb {
+  float: right;
+  margin-left: 15px;
+  margin-right: 0;
+}
+
+.widget-area .widget_categories ul {
+  padding-right: 0;
+}
+
+.widget-area .widget_categories ul li {
+  padding-right: 14px;
+  padding-left: 0;
+}
+
+.widget-area .widget_categories ul li::before {
+  right: 0;
+  left: auto;
+}
+
+.widget-area .widget_mediva_posts_thumb .item .thumb {
+  float: right;
+  margin-left: 15px;
+  margin-right: 0;
+}
+
+.product-details-desc .product-review .rating {
+  padding-left: 5px;
+  padding-right: 0;
+}
+
+.product-details-desc .product-add-to-cart .input-counter {
+  margin-left: 10px;
+  margin-right: 0;
+}
+
+.product-details-desc .buy-checkbox-btn .cbx span:last-child {
+  top: 0;
+  padding-right: 4px;
+  padding-left: 0;
+}
+
+.product-details-desc .products-share .social {
+  padding-right: 0;
+}
+
+.product-details-desc .products-share .social li span {
+  margin-left: 3px;
+  margin-right: 0;
+}
+
+.products-details-tabs .nav {
+  padding-right: 0;
+}
+
+.products-details-tabs .nav .nav-item {
+  margin-left: 30px;
+  margin-right: 0;
+}
+
+.products-details-tabs .nav .nav-item:last-child {
+  margin-left: 0;
+}
+
+.products-details-tabs .nav .nav-item .nav-link::before {
+  right: 0;
+  left: auto;
+}
+
+.products-details-tabs .tab-content .tab-pane ul {
+  padding-right: 0;
+}
+
+.products-details-tabs .tab-content .tab-pane ul li {
+  padding-right: 15px;
+  padding-left: 0;
+}
+
+.products-details-tabs .tab-content .tab-pane ul li::before {
+  right: 0;
+  left: auto;
+}
+
+.products-details-tabs .tab-content .tab-pane .products-reviews .right {
+  text-align: left;
+}
+
+.products-details-tabs .tab-content .tab-pane .products-review-form .review-title .default-btn {
+  left: 0;
+  right: auto;
+}
+
+.products-details-tabs .tab-content .tab-pane .products-review-form .review-form .form-control {
+  padding: 1px 15px 0 15px;
+  text-align: right;
+}
+
+.faq-accordion .accordion {
+  padding-right: 0;
+}
+
+.faq-accordion .accordion .accordion-title {
+  padding: 20px 20px 20px 40px;
+}
+
+.faq-accordion .accordion .accordion-title i {
+  left: 20px;
+  right: auto;
+}
+
+.list-unstyled {
+  padding-right: 0;
+}
+
+.terms-of-service-accordion .accordion {
+  padding-right: 0;
+}
+
+.terms-of-service-accordion .accordion .accordion-title {
+  padding: 20px 20px 20px 40px;
+}
+
+.terms-of-service-accordion .accordion .accordion-title i {
+  left: 20px;
+  right: auto;
+}
+
+.privacy-policy-accordion .accordion {
+  padding-right: 0;
+}
+
+.privacy-policy-accordion .accordion .accordion-title {
+  padding: 20px 20px 20px 40px;
+}
+
+.privacy-policy-accordion .accordion .accordion-title i {
+  left: 20px;
+  right: auto;
+}
+
+.coming-soon-content .newsletter-form .form-group .input-newsletter {
+  padding: 4px 32px 0 0;
+}
+
+.coming-soon-content .newsletter-form .form-group .label-title {
+  right: 0;
+  left: auto;
+}
+
+.coming-soon-content .newsletter-form .form-group .label-title i {
+  right: 0;
+  left: auto;
+}
+
+.service-details-content .service-details-info .single-info-box .social {
+  padding-right: 0;
+}
+
+.service-details-content .service-details-info .single-info-box:last-child {
+  text-align: left;
+}
+
+blockquote, .blockquote {
+  border-right: 1px solid #0dbcc0;
+  border-left: none;
+}
+
+blockquote p, .blockquote p {
+  padding-right: 50px;
+  padding-left: 0;
+}
+
+blockquote .icon, .blockquote .icon {
+  right: 30px;
+  left: auto;
+}
+
+.blog-details-desc .article-content .features-list {
+  padding-right: 0;
+}
+
+.comments-area .comments-title::before {
+  right: 0;
+  left: auto;
+}
+
+.comments-area .comment-body {
+  padding: 30px 100px 30px 30px;
+}
+
+.comments-area .comment-author .avatar {
+  right: -65px;
+  left: auto;
+}
+
+.comments-area .children {
+  margin-right: 30px;
+  margin-left: 0;
+}
+
+.comments-area .comment-respond .comment-reply-title::before {
+  right: 0;
+  left: auto;
+}
+
+.comments-area .comment-respond .comment-form-cookies-consent {
+  padding-right: 20px;
+  padding-left: 0;
+}
+
+.comments-area .comment-respond .comment-form-cookies-consent input {
+  right: 0;
+  left: auto;
+}
+
+.comments-area .comment-respond input[type="date"], .comments-area .comment-respond input[type="time"], .comments-area .comment-respond input[type="datetime-local"], .comments-area .comment-respond input[type="week"], .comments-area .comment-respond input[type="month"], .comments-area .comment-respond input[type="text"], .comments-area .comment-respond input[type="email"], .comments-area .comment-respond input[type="url"], .comments-area .comment-respond input[type="password"], .comments-area .comment-respond input[type="search"], .comments-area .comment-respond input[type="tel"], .comments-area .comment-respond input[type="number"], .comments-area .comment-respond textarea {
+  padding: 15px 15px 15px 15px;
+  text-align: right;
+}
+
+.doctor-details-image .details-content .share-link {
+  padding-right: 0;
+}
+
+.doctor-details-image .details-content .share-link li a {
+  margin: 0 2px;
+}
+
+.doctor-details-tabs .nav {
+  padding-right: 0;
+}
+
+.doctor-details-tabs .nav .nav-item {
+  margin-left: 20px;
+  margin-right: 0;
+}
+
+.doctor-details-tabs .nav .nav-item:last-child {
+  margin-left: 0;
+}
+
+.doctor-details-tabs .nav .nav-item .nav-link::before {
+  right: 0;
+  left: auto;
+}
+
+.doctor-details-tabs .tab-content .tab-pane .specialties-list {
+  padding-right: 0;
+}
+
+.doctor-details-tabs .tab-content .tab-pane .specialties-list li {
+  padding-right: 15px;
+  padding-left: 0;
+}
+
+.doctor-details-tabs .tab-content .tab-pane .specialties-list li::before {
+  right: 0;
+  left: auto;
+}
+
+.doctor-details-tabs .tab-content .tab-pane .educational-list {
+  padding-right: 0;
+}
+
+.doctor-details-tabs .tab-content .tab-pane .educational-list li {
+  padding-right: 15px;
+  padding-left: 0;
+}
+
+.doctor-details-tabs .tab-content .tab-pane .educational-list li::before {
+  right: 0;
+  left: auto;
+}
+
+.doctor-details-tabs .tab-content .tab-pane .awards-list {
+  padding-right: 0;
+}
+
+.doctor-details-tabs .tab-content .tab-pane .awards-list li {
+  padding-right: 15px;
+  padding-left: 0;
+}
+
+.doctor-details-tabs .tab-content .tab-pane .awards-list li::before {
+  right: 0;
+  left: auto;
+}
+
+.doctor-details-tabs .tab-content .tab-pane .skills-list {
+  padding-right: 0;
+}
+
+.doctor-details-tabs .tab-content .tab-pane .skills-list li {
+  padding-right: 15px;
+  padding-left: 0;
+}
+
+.doctor-details-tabs .tab-content .tab-pane .skills-list li::before {
+  right: 0;
+  left: auto;
+}
+
+.doctor-details-tabs .tab-content .tab-pane .doctor-reviews .right {
+  text-align: left;
+}
+
+.doctor-details-tabs .tab-content .tab-pane .doctor-review-form .review-title .default-btn {
+  left: 0;
+  right: auto;
+}
+
+.doctor-details-tabs .tab-content .tab-pane .doctor-review-form .review-form .form-control {
+  padding: 1px 15px 0 15px;
+  text-align: right;
+}
+
+.page-banner-content-two ul {
+  padding-right: 0;
+}
+
+.page-banner-content-two ul li {
+  margin-right: 15px;
+  margin-left: 0;
+}
+
+.page-banner-content-two ul li:first-child {
+  margin-right: 0;
+}
+
+.page-banner-content-two ul li::before {
+  right: -10px;
+  left: auto;
+}
+
+.dashboard-profile .dashboard-profile-info .info-list {
+  padding-right: 0;
+}
+
+.dashboard-profile .dashboard-profile-info .info-list li a {
+  padding: 15px 50px 15px 15px;
+}
+
+.dashboard-profile .dashboard-profile-info .info-list li a i {
+  right: 20px;
+  left: auto;
+}
+
+.doctors-appointment .title-box .btn-box .btn-one {
+  margin-left: 15px;
+  margin-right: 0;
+}
+
+.doctors-appointment .title-box .search-form button {
+  left: 5px;
+  right: auto;
+}
+
+.doctors-appointment .doctors-table tr td .name-box {
+  padding-right: 75px;
+  padding-left: 0;
+}
+
+.doctors-appointment .doctors-table tr td .name-box .image {
+  right: 0;
+  left: auto;
+}
+
+.doctors-appointment .doctors-table tr td.right {
+  text-align: left;
+}
+
+.doctors-appointment .patients-table tr td .name-box {
+  padding-right: 60px;
+  padding-left: 0;
+}
+
+.doctors-appointment .patients-table tr td .name-box .image {
+  right: 0;
+  left: auto;
+}
+
+.doctors-appointment .patients-table tr td.right {
+  text-align: left;
+}
+
+.doctors-appointment .invoices-table .table-header th:last-child {
+  text-align: left;
+}
+
+.doctors-appointment .invoices-table tr td:last-child {
+  text-align: left;
+}
+
+.appointments-list .appointments-box .image-box {
+  right: 40px;
+  left: auto;
+}
+
+.appointments-list .appointments-box .appointments-information {
+  padding-right: 190px;
+  padding-left: 0;
+}
+
+.appointments-list .appointments-box .appointments-information .info-list {
+  padding-right: 0;
+}
+
+.appointments-list .appointments-box .appointments-information .info-list li {
+  padding-right: 20px;
+  padding-left: 0;
+}
+
+.appointments-list .appointments-box .appointments-information .info-list li i {
+  right: 0;
+  left: auto;
+}
+
+.appointments-list .appointments-box .appointments-information .confirm-list {
+  left: 0;
+  right: auto;
+  padding-right: 0;
+}
+
+.appointments-list .appointments-box .appointments-information .confirm-list li {
+  margin-left: 10px;
+  margin-right: 0;
+}
+
+.appointments-list .appointments-box .appointments-information .confirm-list li:last-child {
+  margin-left: 0;
+}
+
+.schedule-time .title-box .search-form button {
+  left: 5px;
+  right: auto;
+}
+
+.reviews-list .reviews-box .image-box {
+  right: 40px;
+  left: auto;
+}
+
+.reviews-list .reviews-box .reviews-content {
+  padding-right: 190px;
+  padding-left: 0;
+}
+
+.reviews-list .reviews-box .reviews-content .rating {
+  left: 0;
+  right: auto;
+}
+
+.change-password-form h2::before {
+  right: 0;
+  left: auto;
+}
+
+.change-password-form form .form-group .form-control {
+  padding: 0 15px 0 15px;
+}
+
+.booking-summary ul {
+  padding-right: 0;
+}
+
+.booking-summary ul li span {
+  float: left;
+}
+
+.booking-summary h3::before {
+  right: 0;
+  left: auto;
+}
+
+.book-appointment-form h2::before {
+  right: 0;
+  left: auto;
+}
+
+.book-appointment-form form .nice-select {
+  text-align: right !important;
+}
+
+.book-appointment-form form .nice-select::after {
+  left: 15px;
+  right: auto;
+}
+
+.book-appointment-form form .nice-select .list .option {
+  text-align: right;
+}
+
+.submit-review-form h2::before {
+  right: 0;
+  left: auto;
+}
+
+.submit-review-form form .form-group .form-control {
+  padding: 0 15px 0 15px;
+}
+
+.newsletter-form .input-newsletter {
+  text-align: right;
+}
+
+.mediva-grid-sorting .ordering .nice-select .list .option {
+  text-align: right;
+}
+
+.cart-buttons {
+  text-align: left;
+}
+
+.contact-form .form-group .form-control {
+  text-align: right;
+}
+
+/** Responsive Area
+==============================**/
+@media only screen and (max-width: 767px) {
+  .top-bar-optional {
+    text-align: center;
+  }
+  .top-bar-optional li .languages-list .nice-select .list {
+    left: 0;
+    right: auto;
+  }
+  .mean-container a.meanmenu-reveal {
+    left: 0 !important;
+    right: auto !important;
+  }
+  .mean-container .mean-nav ul li a {
+    text-align: right;
+  }
+  .mean-container .mean-nav ul li a.mean-expand {
+    width: 85%;
+    text-align: left;
+    left: 0;
+    right: auto;
+  }
+  .others-option-for-responsive .dot-menu {
+    left: 60px;
+    right: auto;
+    z-index: 999;
+  }
+  .others-option-for-responsive .container .container {
+    left: 10px;
+    right: auto;
+  }
+  .others-option-for-responsive .option-inner .others-options .option-item .language-switcher .dropdown-menu .dropdown-item span {
+    margin-right: 8px;
+    margin-left: 0;
+  }
+  .others-option-for-responsive .option-inner .others-options .search-box {
+    margin-right: 25px;
+    margin-left: 0;
+  }
+  .main-banner-search-form form button {
+    left: 10px;
+  }
+  .about-image {
+    padding-left: 0;
+  }
+  .newsletter-form button {
+    left: 0;
+  }
+  .single-footer-widget.pl-5, .single-footer-widget .single-footer-widget .px-5 {
+    padding-right: 0 !important;
+  }
+  .doctor-slider {
+    right: 0;
+  }
+  .specialist-inner {
+    padding: 50px 15px 50px 15px;
+  }
+  .main-banner-item.item-two .main-banner-content {
+    text-align: center;
+  }
+  .main-banner-item.item-two .main-banner-inner {
+    margin: auto;
+  }
+  .main-banner-item.item-three .main-banner-content {
+    text-align: center;
+  }
+  .main-banner-item.item-four .main-banner-content {
+    text-align: center;
+  }
+  .consult-content .consult-inner-content {
+    padding-right: 65px;
+  }
+  .service-details-content .service-details-info .single-info-box:last-child {
+    text-align: center;
+  }
+  .appointments-list .appointments-box .image-box {
+    right: 0;
+  }
+  .appointments-list .appointments-box .appointments-information {
+    padding-right: 0;
+  }
+  .reviews-list .reviews-box .image-box {
+    right: 0;
+  }
+  .reviews-list .reviews-box .reviews-content {
+    padding-right: 0;
+  }
+  .login-form form .lost-your-password {
+    text-align: right;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .login-form form .lost-your-password {
+    text-align: left;
+  }
+}
+
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+  .top-bar-optional {
+    text-align: center;
+  }
+  .top-bar-optional li .languages-list .nice-select .list {
+    left: 0;
+    right: auto;
+  }
+  .mean-container a.meanmenu-reveal {
+    left: 0 !important;
+    right: auto !important;
+  }
+  .mean-container .mean-nav ul li a {
+    text-align: right;
+  }
+  .mean-container .mean-nav ul li a.mean-expand {
+    width: 85%;
+    text-align: left;
+    left: 0;
+    right: auto;
+  }
+  .others-option-for-responsive .dot-menu {
+    left: 60px;
+    right: auto;
+    z-index: 999;
+  }
+  .others-option-for-responsive .container .container {
+    left: 10px;
+    right: auto;
+  }
+  .others-option-for-responsive .option-inner .others-options .option-item .language-switcher .dropdown-menu .dropdown-item span {
+    margin-right: 8px;
+    margin-left: 0;
+  }
+  .others-option-for-responsive .option-inner .others-options .search-box {
+    margin-right: 25px;
+    margin-left: 0;
+  }
+  .about-image {
+    padding-left: 0;
+  }
+  .doctor-slider {
+    right: 0;
+  }
+  .main-banner-item.item-two .main-banner-content {
+    text-align: center;
+  }
+  .main-banner-item.item-two .main-banner-inner {
+    margin: auto;
+  }
+  .main-banner-item.item-three .main-banner-content {
+    text-align: center;
+  }
+  .main-banner-item.item-four .main-banner-content {
+    text-align: center;
+  }
+  .specialist-inner {
+    padding: 50px 15px 50px 15px;
+  }
+  .specialist-inner .specialist-content {
+    margin-right: 0;
+    margin-left: auto;
+  }
+}
+
+@media only screen and (max-width: 1199px) and (min-width: 992px) {
+  .top-bar-optional li .languages-list .nice-select .list {
+    left: 0;
+    right: auto;
+  }
+  .mean-container a.meanmenu-reveal {
+    left: 0 !important;
+    right: auto !important;
+  }
+  .mean-container .mean-nav ul li a {
+    text-align: right;
+  }
+  .mean-container .mean-nav ul li a.mean-expand {
+    width: 85%;
+    text-align: left;
+    left: 0;
+    right: auto;
+  }
+  .others-option-for-responsive .dot-menu {
+    left: 60px;
+    right: auto;
+    z-index: 999;
+  }
+  .others-option-for-responsive .container .container {
+    left: 10px;
+    right: auto;
+  }
+  .others-option-for-responsive .option-inner .others-options .option-item .language-switcher .dropdown-menu .dropdown-item span {
+    margin-right: 8px;
+    margin-left: 0;
+  }
+  .others-option-for-responsive .option-inner .others-options .search-box {
+    margin-right: 25px;
+    margin-left: 0;
+  }
+  .about-image {
+    padding-left: 0;
+  }
+  .about-shape .shape-1 {
+    display: none;
+  }
+  .doctor-slider {
+    right: 0;
+  }
+  .specialist-inner {
+    padding: 100px 50px 100px 25px;
+  }
+}
+
+@media only screen and (min-width: 1550px) {
+  .about-shape .shape-1 {
+    right: 120px;
+    left: auto;
+  }
+  .about-shape .shape-2 {
+    left: 30px;
+    right: auto;
+  }
+}
+/*# sourceMappingURL=rtl.css.map */
