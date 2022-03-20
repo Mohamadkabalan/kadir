@@ -6,7 +6,7 @@
             <div class="col-lg-6">
                 <div class="about-image">
                     <img src="{{ 'storage/'.str_replace('\\', '/', $about->image1) }}" alt="image">
-                    <img src="{{ 'storage/'.str_replace('\\', '/', $about->image2) }}" alt="image">
+{{--                    <img src="{{ 'storage/'.str_replace('\\', '/', $about->image2) }}" alt="image">--}}
 
                     <div class="about-shape">
                         <div class="shape-1">
