@@ -42,7 +42,7 @@
             </div>
 
             <div id="data-content" class="data-content row pt-45 justify-content-center">
-                @include('services.blogs-content')
+                @include('blogs.blogs-content')
             </div>
         </div>
     </div>
