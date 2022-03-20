@@ -1249,7 +1249,7 @@ Navbar Area CSS
     position: relative;
   }
   .main-responsive-nav .logo img {
-    max-width: 100px !important;
+    max-width: 160px !important;
   }
   .navbar-area {
     background-color: #ffffff;
