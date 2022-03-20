@@ -150,7 +150,7 @@
     <!-- Form Validator JS -->
     <script src="{{ asset('js/form-validator.min.js')  }}"></script>
     <!-- Contact JS -->
-    <script src="{{ asset('js/contact-form-script.js')  }}"></script>
+{{--    <script src="{{ asset('js/contact-form-script.js')  }}"></script>--}}
     <!-- Wow JS -->
     <script src="{{ asset('js/wow.min.js')  }}"></script>
     <!-- Custom JS -->
