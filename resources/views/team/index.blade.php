@@ -49,9 +49,9 @@
                     @foreach($teams as $team)
                         <div class="col-lg-4 col-md-6">
                             <div class="single-doctor">
-{{--                                <div class="doctor-image">
-                                    <a href="/team-details/{{$team->id}}"><img src="{{ 'storage/'.str_replace('\\', '/', $team->image) }}" alt="image"></a>
-                                </div>--}}
+                               <div class="doctor-image">
+                                    <img src="{{ 'storage/'.str_replace('\\', '/', $team->image) }}" alt="image">
+                                </div>
 
                                 <div class="doctor-content">
                                     <h3><a href="javascript:;">@if($lang=='de') {{$team->name_de}} @else {{$team->name_ar}} @endif</a></h3>
