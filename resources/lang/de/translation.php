@@ -40,7 +40,7 @@ return [
     "power-yoga" => "Power Yoga",
     "useful-links" => "Useful Links",
     "informations" => "Informations",
-    "address" => "Addresse",
+    "address" => "Adresse",
     "address-info" => "Arztpraxis Kadir <br>Schaffhauserstrasse 110<br>8152 Glattbrugg",
     "address-details" => "Arztpraxis Kadir,Schaffhauserstrasse 110, 8152 Glattbrugg",
     "phone-info" => "+96179779100",
