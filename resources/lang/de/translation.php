@@ -86,7 +86,7 @@ return [
     "saturday-opening-hours" =>"Geschlossen",
     "sunday-opening-hours" =>"Geschlossen",
 
-    "get-in-touch"=>"in Kontakt kommen",
+    "get-in-touch"=>"Kontakt",
     "email1" =>"Mail für Ärzte",
     "email2" =>"Mail",
     "email-address1" =>"arztpraxis.kadir@hin.ch",
