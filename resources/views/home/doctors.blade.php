@@ -24,7 +24,7 @@
                     <div class="doctor-content">
                         <h3><a href="javascript:;">@if($lang=='de') {{$team->name_de}} @else {{$team->name_ar}} @endif</a></h3>
                         <p class="designation pt-3">@if($lang=='de') {{$team->description_de}} @else {{$team->description_ar}} @endif</p>
-                        <a href="javascript:;" class="department-btn">@if($lang=='de') {{$team->position_de}} @else {{$team->position_ar}} @endif</a>
+                        {{--<a href="javascript:;" class="department-btn">@if($lang=='de') {{$team->position_de}} @else {{$team->position_ar}} @endif</a>--}}
 
 {{--                        <div class="doctor-btn">
                             <a href="/doctors-details/{{$team->id}}" class="default-btn">{{ __('translation.learn-more') }}</a>
