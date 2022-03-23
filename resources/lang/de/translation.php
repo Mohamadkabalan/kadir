@@ -2,7 +2,7 @@
 
 return [
 
-    "working-hours" => "Ōffnungszeiten: 7:30 zu 13:00 - 14:00 zu 18:00",
+    "working-hours" => "Ōffnungszeiten: 7:30 bis 13:00 - 14:00 bis 18:00",
     "call-us" => "Tel.",
     "phone-number" => "044 829 24 12",
     "phone-number2" =>"079 838 53 76",
@@ -78,11 +78,11 @@ return [
     "saturday" =>"Samstag",
     "sunday" =>"Sonntag",
 
-    "monday-opening-hours" =>"7:30 zu 13:00 - 14:00 zu 18:00",
-    "tuesday-opening-hours" =>"7:30 zu 13:00 - 14:00 zu 18:00",
-    "wednesday-opening-hours" => "7:30 zu 13:00 - 14:00 zu 18:00",
-    "thursday-opening-hours" =>"7:30 zu 13:00",
-    "friday-opening-hours" =>"7:30 zu 13:00 - 14:00 zu 18:00",
+    "monday-opening-hours" =>"7:30 bis 13:00 - 14:00 bis 18:00",
+    "tuesday-opening-hours" =>"7:30 bis 13:00 - 14:00 bis 18:00",
+    "wednesday-opening-hours" => "7:30 bis 13:00 - 14:00 bis 18:00",
+    "thursday-opening-hours" =>"7:30 bis 13:00",
+    "friday-opening-hours" =>"7:30 bis 13:00 - 14:00 bis 18:00",
     "saturday-opening-hours" =>"Geschlossen",
     "sunday-opening-hours" =>"Geschlossen",
 
