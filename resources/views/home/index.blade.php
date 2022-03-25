@@ -21,9 +21,9 @@
     @include('home.about')
     @include('home.doctors')
     {{--@include('home.queries')--}}
-    @include('home.client')
+{{--    @include('home.client')--}}
     @include('home.blogs')
     {{--@include('home.fun-facts')--}}
-    @include('home.newsletter')
+{{--    @include('home.newsletter')--}}
 
 @endsection
