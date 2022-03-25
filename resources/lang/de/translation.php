@@ -2,7 +2,7 @@
 
 return [
 
-    "working-hours" => "Ōffnungszeiten: 7:30 bis 13:00 - 14:00 bis 18:00",
+    "working-hours" => "Öffnungszeiten: 7:30 bis 13:00 - 14:00 bis 18:00",
     "call-us" => "Tel.",
     "phone-number" => "044 829 24 12",
     "phone-number2" =>"079 838 53 76",
