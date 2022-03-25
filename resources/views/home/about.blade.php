@@ -21,7 +21,7 @@
 
             <div class="col-lg-6">
                 <div class="about-content">
-                    <h3>@if($lang=='de') {{$about->title_de}} @else {{$about->title_ar}}  @endif</h3>
+                    <h3 style="text-transform: none;">@if($lang=='de') {{$about->title_de}} @else {{$about->title_ar}}  @endif</h3>
                     <div class="bar"></div>
                     <p>@if($lang=='de') {{$about->text_de}} @else {{$about->text_ar}}  @endif</p>
 
