@@ -9,8 +9,8 @@
                 <div class="container">
 
                     <div class="main-banner-content">
-                        <h1>@if($lang=='de') {{$banner->title_de}} @else {{$banner->title_ar}}  @endif</h1>
-                        <h2 class="text-white">@if($lang=='de') {{$banner->text_de}} @else {{$banner->text_ar}}  @endif</h2>
+                        <h1 style="text-transform: none;">@if($lang=='de') {{$banner->title_de}} @else {{$banner->title_ar}}  @endif</h1>
+                        <h2 style="text-transform: none;" class="text-white">@if($lang=='de') {{$banner->text_de}} @else {{$banner->text_ar}}  @endif</h2>
                     </div>
 
 
