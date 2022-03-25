@@ -93,7 +93,7 @@ return [
     "specialized-services" => "Spezialisierte Dienstleistungen",
     "services-details" => "Unsere dienstleistungen",
     "services-det"=>"Einzelheiten zu den Diensten",
-    "contact"=>"kontakt",
+    "contact"=>"Kontakt",
     "gallery"=> "Gallerie",
     "subscribe-now"=>"Abonnieren Sie Jetzt",
     "enter-your-email" => "Email eingeben"
