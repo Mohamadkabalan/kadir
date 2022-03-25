@@ -20,7 +20,6 @@ return [
     "subscribe-your-email"=>"اشترك في بريدك الإلكتروني",
     "our-latest-news-description"=>"Our latestnews description",
     "our-specialized-doctor-details"=>"تفاصيل فريقنا المتخصص",
-    "team-section-description"=>"",
     "subscribe-your-email-details" => "Subscribe your email details",
     "blogs" => "مدونات",
     "contact-us" => "اتصل بنا",

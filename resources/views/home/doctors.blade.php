@@ -8,7 +8,6 @@
                 <div class="section-title">
                     <h2>{{ __('translation.our-specialized-doctor-details') }}</h2>
                     <div class="bar"></div>
-                    <p>{{ __('translation.team-section-description') }}</p>
                 </div>
             </div>
         </div>

@@ -16,7 +16,6 @@ return [
     "services" => "Dienstleistungen",
     "more-about-us"=>"Über Uns",
     "our-specialized-doctor-details"=>"Unser Team",
-    "team-section-description"=>"Unser Team ist im medizinischen Bereich sehr erfahren und wir bieten viele Sprachen an",
     "our-latest-news" => "Our Latest News",
     "our-latest-news-description"=>"Our latestnews description",
     "subscribe-your-email"=>"Abonnieren Sie Ihre Email",
