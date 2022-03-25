@@ -41,7 +41,7 @@ return [
     "informations" => "Informations",
     "address" => "Adresse",
     "address-info" => "Arztpraxis Kadir <br>Schaffhauserstrasse 110<br>8152 Glattbrugg",
-    "address-details" => "Arztpraxis Kadir,Schaffhauserstrasse 110, 8152 Glattbrugg",
+    "address-details" => "Arztpraxis Kadir, Schaffhauserstrasse 110, 8152 Glattbrugg",
     "phone-info" => "+96179779100",
     "copy-right" => "Copyright © 2022. All Rights Reserved by",
     "how-it-works" => "How It Works",
