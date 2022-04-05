@@ -10,7 +10,7 @@ class ServicesController extends Controller
 
     function index()
     {
-        $data = DB::table('services')->paginate(6);
+        $data = DB::table('services')->paginate(60);
         return view('services.index', compact('data'));
     }
 
@@ -18,7 +18,7 @@ class ServicesController extends Controller
     {
         if(request()->ajax())
         {
-            $data = DB::table('services')->paginate(6);
+            $data = DB::table('services')->paginate(60);
             return view('services.services-content', compact('data'))->render();
         }
     }

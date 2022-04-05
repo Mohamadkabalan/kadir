@@ -44,7 +44,7 @@
                 <p>{{ __('translation.services-details')}}</p>
             </div>
 
-            <div class="row" id="data-content">
+            <div class="row" id="data-content" style="">
                 @include('services.services-content')
 
             </div>
