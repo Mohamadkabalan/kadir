@@ -91,7 +91,7 @@ return [
     "email-address1" =>"arztpraxis.kadir@hin.ch",
     "email-address2" =>"kinderarztpraxiskadir@hotmail.com",
     "specialized-services" => "Spezialisierte Dienstleistungen",
-    "services-details" => "Unsere dienstleistungen",
+    "services-details" => "Unsere Dienstleistungen",
     "services-det"=>"Einzelheiten zu den Diensten",
     "contact"=>"Kontakt",
     "gallery"=> "Gallerie",
