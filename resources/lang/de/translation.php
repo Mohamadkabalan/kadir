@@ -53,7 +53,7 @@ return [
     "diet-services" => "Diet & Nutritionist Services",
     "learn-more" => "erfahren Sie mehr",
     "latest-new" => "",
-    "latest-recipe-from-blog" => "unsere praxis",
+    "latest-recipe-from-blog" => "Unsere Praxis",
     "contact-info" => "Contact Info",
     "connect-with-us" => "Let's Connect With Us",
     "your-subject" => "Dein Fach",
