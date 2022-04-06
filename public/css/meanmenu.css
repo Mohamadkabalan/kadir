@@ -212,7 +212,7 @@
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li a {
     font-size: 15px;
     font-weight: 500;
-    text-transform: capitalize;
+    text-transform: none;
     padding: 9px 15px;
     margin: 0;
     display: block;
@@ -249,7 +249,7 @@
 }
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a {
     color: #ffffff;
-    text-transform: capitalize;
+    text-transform: none;
 }
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:hover, 
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:focus, 

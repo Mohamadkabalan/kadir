@@ -157,7 +157,7 @@ img {
     color: $black-color;
     font-family: $heading-font-family;
     font-weight: 600;
-    text-transform: capitalize;
+    text-transform: none;
 
     &:last-child {
         margin-bottom: 0;
@@ -2900,7 +2900,7 @@ Newsletter Area CSS
         border-radius: 5px;
         transition: $transition;
         line-height: 50px;
-        text-transform: capitalize;
+        text-transform: none;
         cursor: pointer;
         font-size: $font-size;
         font-weight: 500;
@@ -4368,7 +4368,7 @@ FAQ Area CSS
             color: $black-color;
             position: relative;
             display: block;
-            text-transform: capitalize;
+            text-transform: none;
             font-size: 18px;
             font-weight: 500;
 
@@ -4470,7 +4470,7 @@ Terms of Service Area CSS
             color: $black-color;
             position: relative;
             display: block;
-            text-transform: capitalize;
+            text-transform: none;
             font-size: 18px;
             font-weight: 500;
 
@@ -4532,7 +4532,7 @@ Privacy policy Area CSS
             color: $black-color;
             position: relative;
             display: block;
-            text-transform: capitalize;
+            text-transform: none;
             font-size: 18px;
             font-weight: 500;
 
@@ -4977,7 +4977,7 @@ Service details Area CSS
                 display: inline-block;
                 padding: 12px 30px;
                 color: $white-color;
-                text-transform: capitalize;
+                text-transform: none;
                 background-color: $main-color;
                 border: 1px solid $main-color;
                 transition: $transition;
@@ -5281,7 +5281,7 @@ blockquote, .blockquote {
                 padding: 10px 30px 10px;
                 display: inline-block;
                 cursor: pointer;
-                text-transform: capitalize;
+                text-transform: none;
                 transition: $transition;
                 border-radius: 0;
                 font-weight: 500;
@@ -5772,7 +5772,7 @@ Products Area CSS
             position: absolute;
             left: 0;
             bottom: 0;
-            text-transform: capitalize;
+            text-transform: none;
             transition: $transition;
             display: inline-block;
             opacity: 0;
